@@ -6,7 +6,6 @@ N.B: The work is done with the following technologies
 
 Backend: PhP.
 
-
 Frontend: Html5 - Css3 - Bootstrap.
 
 
